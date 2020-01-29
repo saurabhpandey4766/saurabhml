@@ -1,5 +1,5 @@
 print("hi everyone")
-x=5
+x=52
 
 print("checking first time")
 print(x)
