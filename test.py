@@ -1,2 +1,1 @@
-print("hi everyone")
-x=50
+print("it is python")
